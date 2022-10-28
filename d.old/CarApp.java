@@ -25,7 +25,6 @@ public class CarApp {
 	 CarApp(int doors, int wheels, String make){
 		 
 		 //System.out.println("Object Created");
-		 // This will call default constructor
 		 this();
 		 this.doors = doors;
 		 this.wheels = wheels;
